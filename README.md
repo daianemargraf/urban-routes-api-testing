@@ -112,13 +112,15 @@ Examples include:
 
 ## API Request Validation
 
-![API Validation](screenshots/api-request-validation.png)
+<img width="1292" height="873" alt="api-request-validation png" src="https://github.com/user-attachments/assets/0f8c834b-06b2-450d-851a-02323457d0bd" />
+
 
 ---
 
 ## REST API Testing Documentation
 
-![Postman Testing](screenshots/postman-api-testing.png)
+<img width="1295" height="874" alt="postman-api-testing png" src="https://github.com/user-attachments/assets/4080f87c-c420-45eb-9ab8-0e0e863af6b0" />
+
 
 ---
 
